@@ -1,0 +1,21 @@
+body{
+  background-image: url(images/ai.png);
+  background-repeat: repeat;
+}
+body,h1,h3,p{font-family: Helvetica,arial,sans-serif;
+font-size: 35px;
+color: black;}
+
+.container{text-align: center;
+padding-top:45px;
+}
+
+hr{
+  width: 500px;
+  border-bottom: 1px solid black;
+}
+.quote-box{border: 1px dashed black;
+  border-radius: 15px;
+  padding: 10px;
+  margin-bottom:55px;
+}
